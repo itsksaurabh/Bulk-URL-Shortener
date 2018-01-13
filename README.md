@@ -15,6 +15,11 @@ Available online : http://bulk-url-shortener.herokuapp.com/
 <li>google-url</li>
 </ul>
 
+# Run
+```
+node app.js
+```
+
 # Help & Support
 <ul>
   <li><a href="https://in.linkedin.com/in/itsksaurabh">Author</a></li>
