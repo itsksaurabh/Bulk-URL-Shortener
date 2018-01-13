@@ -9,7 +9,7 @@ app.use(express.static("public"));
 app.use(bodyParser.urlencoded({ extended: true }));
 
 
-var googleUrl = new GoogleURL( { key: 'AIzaSyCEitQF5X89Cm387tzaf3AYCt0WNYMBge4' });
+var googleUrl = new GoogleURL( { key: 'Your Real Key Here' });
 
 
 //Routes
