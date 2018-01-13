@@ -14,3 +14,8 @@ Available online : http://bulk-url-shortener.herokuapp.com/
 <li>body-parser</li>
 <li>google-url</li>
 </ul>
+
+# Help & Support
+<ul>
+  <li><a href="https://in.linkedin.com/in/itsksaurabh">Author</a></li>
+</ul>
