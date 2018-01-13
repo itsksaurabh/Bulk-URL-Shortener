@@ -17,7 +17,7 @@ Available online : http://bulk-url-shortener.herokuapp.com/
 
 # Run
 ```
-node app.js
+$node app.js
 ```
 
 # Help & Support
