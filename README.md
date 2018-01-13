@@ -1,5 +1,5 @@
 # Bulk-URL-Shortener
-A web application developed to shorten URLs in bulk using Google URL Shortener API,Node.js,Express and Bootstrap 4.
+A web application developed to shorten URLs in bulk using <strong>Google URL Shortener API</strong>,Node.js,Express and Bootstrap 4.
 Shorten long URLs and squeeze them into fewer characters to make links easier to share, tweet, or email to friends.
 
 Available online : http://bulk-url-shortener.herokuapp.com/
