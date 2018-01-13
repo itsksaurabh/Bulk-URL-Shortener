@@ -1,0 +1,19 @@
+<% include ./partials/header %>
+        
+         <h4>List of Shortened URLs</h4>
+
+            <div class="container">
+                 <ul class="list-group">
+                   <% List.shortUrlList.forEach(function(url){ %>
+                   
+                      <li  id="list" class="list-group-item list-group-item-light"><a href="<%- url %>" target="_blank"><%= url %></a></li>
+            
+                   <% }); %>
+                 </ul>  
+            </div>
+            <div class="text-center">
+              <a href="/" class="btn btn-outline-primary btn-lg">Back</a>
+            </div>
+        </div>
+      
+ <% include ./partials/footer%>
